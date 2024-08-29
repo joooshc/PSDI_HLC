@@ -1,0 +1,264 @@
+Compound,SMILES
+3-methyl-4-{\it tert}-butylheptane,CCCC(C(C)CC)C(C)(C)C
+4-methyl-4-{\it tert}-butylheptane,CCCC(C)(CCC)C(C)(C)C
+"2,2-dimethyl-3-{\it tert}-butylhexane",CCCC(C(C)(C)C)C(C)(C)C
+1-methyl-{\it trans}-3-ethylcyclohexane,CCC1CCCC(C1)C
+"{\it cis}-1,1,2,3-tetramethylcyclopentane",CC1CCC(C1C)(C)C
+"{\it trans}-1,1,3,4-tetramethylcyclopentane",CC1CC(CC1C)(C)C
+"{\it cis}-1,2,2,3-tetramethylcyclopentane",CC1CCC(C1(C)C)C
+"{\it trans}-1,2,2,3-tetramethylcyclopentane",CC1CCC(C1(C)C)C
+"1,{\it cis}-2,{\it cis}-3,{\it cis}-4-tetramethylcyclopentane",CC1CC(C(C1C)C)C
+"1,{\it cis}-2,{\it cis}-3,{\it trans}-4-tetramethylcyclopentane",CC1CC(C(C1C)C)C
+"1,{\it cis}-2-dimethyl-1-ethylcyclopentane",CCC1(CCCC1C)C
+"1,{\it trans}-2-dimethyl-1-ethylcyclopentane",CCC1(CCCC1C)C
+"1,{\it cis}-2-dimethyl-{\it trans}-3-ethylcyclopentane",CCC1CCC(C1C)C
+"1,{\it cis}-3-dimethyl-{\it cis}-2-ethylcyclopentane",
+"1,{\it trans}-3-dimethyl-{\it cis}-4-ethylcyclopentane",CCC1CC(CC1C)C
+"1,{\it trans}-3-dimethyl-{\it trans}-4-ethylcyclopentane",
+1-methyl-{\it cis}-3-propylcyclopentane,CCCC1CCC(C1)C
+1-methyl-{\it cis}-3-isopropylcyclopentane,CC1CCC(C1)C(C)C
+1-methyl-{\it trans}-3-isopropylcyclopentane,CC1CCC(C1)C(C)C
+"2,3-dimethyl-2-{\it tert}-butyl-1-butanol",CC(C)C(C)(CO)C(C)(C)C
+"4-(3',5'-dimethyl-3'-heptyl)-phenol(+)",CCC(C)CC(C)(CC)C1=CC=C(C=C1)O
+"4-(3',5'-dimethyl-3'-heptyl)-phenol(-)",CCC(C)CC(C)(CC)C1=CC=C(C=C1)O
+dehydroabietol,CC(C)C1=CC2=C(C=C1)C3(CCCC(C3CC2)(C)CO)C
+IEPOX1CO3H,
+C520OOH,
+C518OOH,
+ROO6R7OOH,
+ROO6R6OOH,
+C624OOH,
+ROO6R5OOH,
+C7OHOOH,
+C8OHOOH,
+C5H112O2H,
+LIMAB15OOH2,
+RO5R1O2H,
+RO5R2O2H,
+ROO6R1OOH,
+RO5R3O2H,
+aquaflora,C1CC2C(C1)C3CC2CC3CC=O
+starfleur,CC(C)CC1CCC(CC1)CCC=O
+lilybelle,CC(C)C1CCC(=CC1)CCC=O
+mimosal,CC1=CC=C(C=C1)C=C(C)CCC=O
+trinexapac,C1CC1C(=C2C(=O)CC(CC2=O)C(=O)O)O
+GOLIG1,
+GOLIG2,C(=O)C(O)OC(C(O)O)O
+GOLIG3,C(C(O)OC(C(O)O)O)(O)O
+MGLYFB,
+MGLYOXDA,CC(=O)C(O)OC(C(=O)C)O
+MGLYOXDB,
+DIEPOXO3,
+IEPOXO4,
+METHFDIOL,CC1CC(OC1O)O
+MEDICO1CO,
+MEDICO4CO,CC(C=O)(C(=O)CO)O
+METRICO,CC(CO)(C(=O)CO)O
+RO5R5,
+RO5R4O2H,
+coniferylaldehyde,[HH].CC(=O)C=CC1=CC(=C(C=C1)O)OC
+butyrylsyringol,CCCC(=O)C1=CC(=C(C(=C1)OC)O)OC
+milk thistle extract,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O
+azadirachtin,CC=C(C)C(=O)OC1CC(C2(COC3C2C14COC(C4C(C3O)(C)C56C7CC(C5(O6)C)C8(C=COC8O7)O)(C(=O)OC)O)C(=O)OC)OC(=O)C
+methylethyl-{\it sec}-butylamine,CCC(C)N(C)CC
+tralkoxydim,CCC(=C1C(=O)CC(CC1=O)C2=C(C=C(C=C2C)C)C)NOCC
+ISOP1N6CO,
+C52COCONO2,
+ISOP1N23O4CO,
+ROO6R7ONO2,
+C7OHONO2,
+C622CONO2,
+C8OHONO2,
+C824ONO2,
+C819ONO2,
+C92ONO2,
+NORLIMONO2,
+C822CONO2,
+C817CONO2,
+C9CONO2,
+LIMONO2,
+ISOP1N2ONO2,
+EPXISOPNONO2,
+ISOP1N23O4ONO2,
+ISOP1N5ONO2,
+LIMAB15ONO22,
+ISOP1N5OOH,
+C520ONO2,
+ROO6R6ONO2,
+C624ONO2,
+ROO6R5ONO2,
+ROO6R1ONO2,
+LIMAB15ONO2OOH,
+PFBHA-4-methyl-benzaldehyde,CC1=CC=C(C=C1)C=NOCC2=C(C(=C(C(=C2F)F)F)F)F
+PFBHA-9-fluorenone,C1=CC=C2C(=C1)C3=CC=CC=C3C2=NOCC4=C(C(=C(C(=C4F)F)F)F)F
+PFBHA-1-hydroxypropanone,CC(=NOCC1=C(C(=C(C(=C1F)F)F)F)F)CO
+PFBHA-3-hydroxy-3-methyl-2-butanone,CC(=NOCC1=C(C(=C(C(=C1F)F)F)F)F)C(C)(C)O
+pentachloroundecane isomers,CCCCCCCCCC(C(Cl)(Cl)Cl)(Cl)Cl
+{\it cis}-nonachlor,C12C(C(C(C1Cl)Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+{\it trans}-nonachlor,C12C(C(C(C1Cl)Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+"2,3,3',4,6-pentachlorodiphenyl ether",C1=CC(=CC(=C1)Cl)OC2=C(C(=C(C=C2Cl)Cl)Cl)Cl
+"2,3'-dibromodiphenyl ether",C1=CC=C(C(=C1)OC2=CC(=CC=C2)Br)Br
+"2,5-dibromodiphenyl ether",C1=CC=C(C=C1)OC2=C(C=CC(=C2)Br)Br
+"2,2',3-tribromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C(=CC=C2)Br)Br)Br
+"2,2',5-tribromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C=CC(=C2)Br)Br)Br
+"2,2',6-tribromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C=CC=C2Br)Br)Br
+"2,3,3'-tribromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C(=CC=C2)Br)Br
+"2,3,4'-tribromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=CC=C(C=C2)Br
+"2,3,5-tribromodiphenyl ether",C1=CC=C(C=C1)OC2=C(C(=CC(=C2)Br)Br)Br
+"2,3,6-tribromodiphenyl ether",C1=CC=C(C=C1)OC2=C(C=CC(=C2Br)Br)Br
+"2,3',5-tribromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C=CC(=C2)Br)Br
+"2,3',6-tribromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C=CC=C2Br)Br
+"2,4,5-tribromodiphenyl ether",C1=CC=C(C=C1)OC2=CC(=C(C=C2Br)Br)Br
+"2,4',5-tribromodiphenyl ether",C1=CC(=CC=C1OC2=C(C=CC(=C2)Br)Br)Br
+"2,3',5'-tribromodiphenyl ether",C1=CC=C(C(=C1)OC2=CC(=CC(=C2)Br)Br)Br
+"3,4,5-tribromodiphenyl ether",C1=CC=C(C=C1)OC2=CC(=C(C(=C2)Br)Br)Br
+"3,4',5-tribromodiphenyl ether",C1=CC(=CC=C1OC2=CC(=CC(=C2)Br)Br)Br
+"2,2',3,4-tetrabromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C(=C(C=C2)Br)Br)Br)Br
+"2,2',3,4'-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C=C(C=C2)Br)Br
+"2,2',3,5-tetrabromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C(=CC(=C2)Br)Br)Br)Br
+"2,2',3,5'-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C=CC(=C2)Br)Br
+"2,2',3,6-tetrabromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C=CC(=C2Br)Br)Br)Br
+"2,2',3,6'-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C=CC=C2Br)Br
+"2,2',4,5-tetrabromodiphenyl ether",C1=CC=C(C(=C1)OC2=CC(=C(C=C2Br)Br)Br)Br
+"2,2',4,6-tetrabromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C=C(C=C2Br)Br)Br)Br
+"2,2',5,6'-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C=CC(=C2)Br)Br)Br
+"2,2',6,6'-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C=CC=C2Br)Br)Br
+"2,3,3',4'-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=CC(=C(C=C2)Br)Br
+"2,3,3',5-tetrabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C(=CC(=C2)Br)Br)Br
+"2,3,3',5'-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=CC(=CC(=C2)Br)Br
+"2,3,3',6-tetrabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C=CC(=C2Br)Br)Br
+"2,3,4,6-tetrabromodiphenyl ether",C1=CC=C(C=C1)OC2=C(C(=C(C=C2Br)Br)Br)Br
+"2,3,4',5-tetrabromodiphenyl ether",C1=CC(=CC=C1OC2=C(C(=CC(=C2)Br)Br)Br)Br
+"2,3,4',6-tetrabromodiphenyl ether",C1=CC(=CC=C1OC2=C(C=CC(=C2Br)Br)Br)Br
+"2,3,5,6-tetrabromodiphenyl ether",C1=CC=C(C=C1)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,3',4,5-tetrabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=CC(=C(C=C2Br)Br)Br
+"2,3',4,5'-tetrabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=CC(=CC(=C2)Br)Br
+"2,3',4',5-tetrabromodiphenyl ether",C1=CC(=C(C=C1OC2=C(C=CC(=C2)Br)Br)Br)Br
+"2,3',5,5'-tetrabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=CC(=CC(=C2)Br)Br)Br
+"2,3',5',6-tetrabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=CC(=CC(=C2)Br)Br)Br
+"2,4,4',5-tetrabromodiphenyl ether",C1=CC(=CC=C1OC2=CC(=C(C=C2Br)Br)Br)Br
+"2,3',4',5'-tetrabromodiphenyl ether",C1=CC=C(C(=C1)OC2=CC(=C(C(=C2)Br)Br)Br)Br
+"3,3',4,5-tetrabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=CC(=C(C(=C2)Br)Br)Br
+"3,3',4,5'-tetrabromodiphenyl ether",C1=CC(=C(C=C1OC2=CC(=CC(=C2)Br)Br)Br)Br
+"3,3',5,5'-tetrabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=CC(=CC(=C2)Br)Br
+"3,4,4',5-tetrabromodiphenyl ether",C1=CC(=CC=C1OC2=CC(=C(C(=C2)Br)Br)Br)Br
+"2,2',3,3',5-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C(=CC(=C2)Br)Br)Br
+"2,2',3,3',6-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C=CC(=C2Br)Br)Br
+"2,2',3,4,5-pentabromodiphenyl ether",C1=CC=C(C(=C1)OC2=CC(=C(C(=C2Br)Br)Br)Br)Br
+"2,2',3,4,5'-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=C(C(=C(C=C2)Br)Br)Br)Br
+"2,2',3,4,6'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C(=C(C=C2)Br)Br)Br)Br
+"2,2',3,4',5-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=C(C(=CC(=C2)Br)Br)Br
+"2,2',3,4',6-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=C(C=CC(=C2Br)Br)Br
+"2,2',3,5,5'-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=C(C(=CC(=C2)Br)Br)Br)Br
+"2,2',3,5,6-pentabromodiphenyl ether",C1=CC=C(C(=C1)OC2=C(C(=CC(=C2Br)Br)Br)Br)Br
+"2,2',3,5,6'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C(=CC(=C2)Br)Br)Br)Br
+"2,2',3,5',6-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=C(C=CC(=C2Br)Br)Br)Br
+"2,2',3,6,6'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C=CC(=C2Br)Br)Br)Br
+"2,2',3,4',5'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=CC(=C(C=C2Br)Br)Br
+"2,2',3,4',6'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C=C(C=C2Br)Br)Br
+"2,2',4,5,5'-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br
+"2,2',4,5,6'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=CC(=C(C=C2Br)Br)Br)Br
+"2,2',4,5',6-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=C(C=C(C=C2Br)Br)Br)Br
+"2,2',4,6,6'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C=C(C=C2Br)Br)Br)Br
+"2,3,3',4,5-pentabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br
+"2,3,3',4',5-pentabromodiphenyl ether",C1=CC(=C(C=C1OC2=C(C(=CC(=C2)Br)Br)Br)Br)Br
+"2,3,3',4,5'-pentabromodiphenyl ether",C1=CC(=C(C(=C1OC2=CC(=CC(=C2)Br)Br)Br)Br)Br
+"2,3,3',4,6-pentabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br
+"2,3,3',4',6-pentabromodiphenyl ether",C1=CC(=C(C=C1OC2=C(C=CC(=C2Br)Br)Br)Br)Br
+"2,3,3',5,5'-pentabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=C(C(=CC(=C2)Br)Br)Br
+"2,3,3',5,6-pentabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,3,3',5',6-pentabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=CC(=CC(=C2)Br)Br)Br)Br
+"2,3,4,4',5-pentabromodiphenyl ether",C1=CC(=CC=C1OC2=CC(=C(C(=C2Br)Br)Br)Br)Br
+"2,3,4,4',6-pentabromodiphenyl ether",C1=CC(=CC=C1OC2=C(C(=C(C=C2Br)Br)Br)Br)Br
+"2,3,4',5,6-pentabromodiphenyl ether",C1=CC(=CC=C1OC2=C(C(=CC(=C2Br)Br)Br)Br)Br
+"2,3',4,4',5-pentabromodiphenyl ether",C1=CC(=C(C=C1OC2=CC(=C(C=C2Br)Br)Br)Br)Br
+"2,3',4,5,5'-pentabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br
+"2,3',4,5',6-pentabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br
+"2,3,3',4',5'-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=CC(=C(C(=C2)Br)Br)Br
+"2,3',4,4',5'-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C(=C2)Br)Br)Br
+"2,3',4',5,5'-pentabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=CC(=C(C(=C2)Br)Br)Br)Br
+"2,3',4',5',6-pentabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=CC(=C(C(=C2)Br)Br)Br)Br
+"3,3',4,5,5'-pentabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=CC(=C(C(=C2)Br)Br)Br
+"2,2',3,3',4,5-hexabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br
+"2,2',3,3',4,6-hexabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br
+"2,2',3,3',4,6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1OC2=C(C=CC(=C2Br)Br)Br)Br)Br)Br
+"2,2',3,3',5,5'-hexabromodiphenyl ether",C1=C(C=C(C(=C1OC2=C(C(=CC(=C2)Br)Br)Br)Br)Br)Br
+"2,2',3,3',5,6-hexabromodiphenyl ether",C1=CC(=C(C(=C1)Br)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,2',3,3',5,6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=C(C(=CC(=C2)Br)Br)Br)Br)Br
+"2,2',3,3',6,6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=C(C=CC(=C2Br)Br)Br)Br)Br
+"2,2',3,4,4',5-hexabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br
+"2,2',3,4,4',6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1OC2=C(C=C(C=C2Br)Br)Br)Br)Br)Br
+"2,2',3,4,5,5'-hexabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=CC(=C(C(=C2Br)Br)Br)Br)Br
+"2,2',3,4,5,6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br)Br
+"2,2',3,4,5',6-hexabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=C(C(=C(C=C2Br)Br)Br)Br)Br
+"2,2',3,4,6,6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br)Br
+"2,2',3,4',5,5'-hexabromodiphenyl ether",C1=C(C=C(C(=C1OC2=CC(=C(C=C2Br)Br)Br)Br)Br)Br
+"2,2',3,4',5,6-hexabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,2',3,4',5',6-hexabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br
+"2,2',3,4',6,6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=C(C=C(C=C2Br)Br)Br)Br)Br
+"2,2',3,5,5',6-hexabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=C(C(=CC(=C2Br)Br)Br)Br)Br
+"2,2',3,5,6,6'-hexabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br)Br
+"2,3,3',4,4',5-hexabromodiphenyl ether",C1=CC(=C(C=C1OC2=CC(=C(C(=C2Br)Br)Br)Br)Br)Br
+"2,3,3',4,4',5'-hexabromodiphenyl ether",C1=CC(=C(C(=C1OC2=CC(=C(C(=C2)Br)Br)Br)Br)Br)Br
+"2,3,3',4,4',6-hexabromodiphenyl ether",C1=CC(=C(C=C1OC2=C(C(=C(C=C2Br)Br)Br)Br)Br)Br
+"2,3,3',4,5,5'-hexabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br
+"2,3,3',4,5,6-hexabromodiphenyl ether",C1=CC(=CC(=C1)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br
+"2,3,3',4,5',6-hexabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br
+"2,3,3',4',5,5'-hexabromodiphenyl ether",C1=C(C=C(C(=C1Br)Br)Br)OC2=C(C(=CC(=C2)Br)Br)Br
+"2,3,3',4',5,6-hexabromodiphenyl ether",C1=CC(=C(C=C1OC2=C(C(=CC(=C2Br)Br)Br)Br)Br)Br
+"2,3,3',4',5',6-hexabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=CC(=C(C(=C2)Br)Br)Br)Br)Br
+"2,3,3',5,5',6-hexabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,3',4,4',5',6-hexabromodiphenyl ether",C1=C(C=C(C(=C1Br)Br)Br)OC2=C(C=C(C=C2Br)Br)Br
+"3,3',4,4',5,5'-hexabromodiphenyl ether",C1=C(C=C(C(=C1Br)Br)Br)OC2=CC(=C(C(=C2)Br)Br)Br
+"2,2',3,3',4,4',5-heptabromodiphenyl ether",C1=CC(=C(C(=C1OC2=CC(=C(C(=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,4',6-heptabromodiphenyl ether",C1=CC(=C(C(=C1OC2=C(C(=C(C=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,5,5'-heptabromodiphenyl ether",C1=C(C=C(C(=C1OC2=CC(=C(C(=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,5,6'-heptabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=CC(=C(C(=C2Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,5',6-heptabromodiphenyl ether",C1=C(C=C(C(=C1OC2=C(C(=C(C=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,6,6'-heptabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=C(C(=C(C=C2Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,5',6'-heptabromodiphenyl ether",C1=CC(=C(C(=C1OC2=C(C(=CC(=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',5,5',6-heptabromodiphenyl ether",C1=C(C=C(C(=C1OC2=C(C(=CC(=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',5,6,6'-heptabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=C(C(=CC(=C2Br)Br)Br)Br)Br)Br
+"2,2',3,4,4',5,5'-heptabromodiphenyl ether",C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br
+"2,2',3,4,4',5,6'-heptabromodiphenyl ether",C1=C(C=C(C(=C1Br)OC2=CC(=C(C(=C2Br)Br)Br)Br)Br)Br
+"2,2',3,4,5,5',6-heptabromodiphenyl ether",C1=CC(=C(C=C1Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br)Br
+"2,2',3,4,5,6,6'-heptabromodiphenyl ether",C1=CC(=C(C(=C1)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br)Br
+"2,2',3,4',5,5',6-heptabromodiphenyl ether",C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,2',3,4',5,6,6'-heptabromodiphenyl ether",C1=C(C=C(C(=C1Br)OC2=C(C(=CC(=C2Br)Br)Br)Br)Br)Br
+"2,3,3',4,4',5,5'-heptabromodiphenyl ether",C1=C(C=C(C(=C1Br)Br)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br
+"2,3,3',4,4',5',6-heptabromodiphenyl ether",C1=C(C=C(C(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br
+"2,3,3',4,5,5',6-heptabromodiphenyl ether",C1=C(C=C(C=C1Br)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br
+"2,3,3',4',5,5',6-heptabromodiphenyl ether",C1=C(C=C(C(=C1Br)Br)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,2',3,3',4,4',5,6'-octabromodiphenyl ether",C1=C(C(=C(C(=C1Br)Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br
+"2,2',3,3',4,5,5',6-octabromodiphenyl ether",C1=C(C=C(C(=C1OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,5,5',6'-octabromodiphenyl ether",C1=C(C(=C(C(=C1Br)Br)Br)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br
+"2,2',3,3',4,5,6,6'-octabromodiphenyl ether",C1=CC(=C(C(=C1Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,5',6,6'-octabromodiphenyl ether",C1=C(C(=C(C(=C1Br)Br)Br)OC2=C(C(=CC(=C2Br)Br)Br)Br)Br
+"2,2',3,4,4',5,6,6'-octabromodiphenyl ether",C1=C(C=C(C(=C1Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br)Br)Br
+"2,2',3,3',4,5,5',6,6'-nonabromodiphenyl ether",C1=C(C(=C(C(=C1Br)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br)Br)Br
+chlorantraniliprole,CC1=CC(=C(C(=C1)Cl)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC
+vemurafenib,CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F
+D\&C yellow 10,CS(=O)(=O)[O-].CS(=O)(=O)[O-].C1=CC=C2C(=C1)C=CC(=N2)C3C(=O)C4=CC=CC=C4C3=O.[Na+].[Na+]
+D3FormEst,
+D3OHFormEst,
+D3Hydroperoxide,
+D3EtherHydroperoxide,
+D3FormEst2,
+D3OH2O1,C[Si]1(O[Si](O[Si](O1)(C)O)(C)O)C
+D4FormEst,
+D4OHFormEst,
+D4Hydroperoxide,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)COO)(C)C)C
+D4EtherHydroperoxide,
+D4FormEst2,
+D5FormEst,
+D5OHFormEst,
+D5Hydroperoxide,
+D5EtherHydroperoxide,
+D5FormEst2,
+D5OH2,
+D3Organonitrate,
+D3EtherOrganonitrate,
+D4Organonitrate,
+D4EtherOrganonitrate,
+D5Organonitrate,
+D5EtherOrganonitrate,

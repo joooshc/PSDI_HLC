@@ -1,0 +1,2 @@
+bagging_fraction,bagging_freq,boosting_type,early_stopping_rounds,learning_rate,max_bin,n_estimators,num_leaves,num_threads
+0.8,1,rf,0,0.1,255,800,31,4

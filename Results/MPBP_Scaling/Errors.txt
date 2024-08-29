@@ -1,0 +1,4 @@
+0.1.1_MinMax_Log.csv - BoilingPoint_C
+0.1.1_Norm_Log.csv - BoilingPoint_C
+0.1.1_MinMax_Log.csv - MeltingPoint_C
+0.1.1_Norm_Log.csv - MeltingPoint_C

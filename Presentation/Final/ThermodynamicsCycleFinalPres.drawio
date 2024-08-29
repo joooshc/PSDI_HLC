@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" modified="2024-08-14T10:39:09.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" etag="zpoae3Ig1_LAfXVuUZrm" version="24.7.3" type="device">
+  <diagram name="Page-1" id="E8YMzbB_gH6wWAE5xwbF">
+    <mxGraphModel dx="426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#002169;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="160" as="sourcePoint" />
+            <mxPoint x="600" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#002169;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#002169;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="360" as="sourcePoint" />
+            <mxPoint x="820" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#3D7CC9;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="GHjoojTF7PkUz3Xn2QtV-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="350" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#3D7CC9;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; style=&quot;font-size: 26px;&quot; color=&quot;#011e41&quot;&gt;Vapour&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="450" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-9" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;$$\Delta_{gas}G^{\circ}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#011E41;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="635" y="210" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#3D7CC9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="GHjoojTF7PkUz3Xn2QtV-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="170" as="sourcePoint" />
+            <mxPoint x="760" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-10" value="Solution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="680" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-12" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;Solid&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=26;fontColor=#011E41;" parent="1" vertex="1">
+          <mxGeometry x="230" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-13" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;$$\Delta_{soln}G^{\circ}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=#011E41;" parent="1" vertex="1">
+          <mxGeometry x="450" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-14" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;$$\Delta_{vap}G^{\circ}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=#011E41;" parent="1" vertex="1">
+          <mxGeometry x="230" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-15" value="&lt;div&gt;&lt;font face=&quot;Lato&quot; color=&quot;#011e41&quot; size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot;&gt;&lt;i style=&quot;font-size: 18px;&quot;&gt;Solubility &lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHjoojTF7PkUz3Xn2QtV-16" value="&lt;div&gt;&lt;font face=&quot;Lato&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Henry&#39;s Law&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Lato&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Raoult&#39;s Law&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#011E41;" parent="1" vertex="1">
+          <mxGeometry x="510" y="210" width="125" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

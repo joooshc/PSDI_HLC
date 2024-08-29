@@ -1,0 +1,8 @@
+,MSE,R2
+StandardScaler(),4.49E+60,-0.18070304
+RobustScaler(),4.72E+60,-0.241302825
+MaxAbsScaler(),1.05E+61,-1.755966126
+PowerTransformer(standardize=False),7.18E+61,-17.85910215
+None,4.22E+60,-0.108809042
+normalize,4.16E+60,-0.093995622
+MinMaxScaler(),1.05E+61,-1.755966126

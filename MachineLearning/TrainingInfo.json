@@ -1,0 +1,9 @@
+{
+    "logHenry" : {
+        "scaling" : "MRobust",
+        "algorithms" : ["LGBM"] },
+    
+    "logS" : {
+        "scaling" : "MRobust",
+        "algorithms" : ["LGBM"] }
+}  

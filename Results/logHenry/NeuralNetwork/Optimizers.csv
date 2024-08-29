@@ -1,0 +1,71 @@
+,R2,MSE
+"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)",0.9119345355159357,3.1266865730285645
+"Adamax (
+Parameter Group 0
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.002
+    maximize: False
+    weight_decay: 0
+)",0.8940469058601224,3.8873956203460693
+"Adadelta (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-06
+    foreach: None
+    lr: 1.0
+    maximize: False
+    rho: 0.9
+    weight_decay: 0
+)",0.8521636671363846,4.375600337982178
+"ASGD (
+Parameter Group 0
+    alpha: 0.75
+    capturable: False
+    differentiable: False
+    foreach: None
+    lambd: 0.0001
+    lr: 0.01
+    maximize: False
+    t0: 1000000.0
+    weight_decay: 0
+)",-0.001282622450827331,48.8369026184082
+"RMSprop (
+Parameter Group 0
+    alpha: 0.99
+    centered: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.01
+    maximize: False
+    momentum: 0
+    weight_decay: 0
+)",-0.003632626954592988,33.17262649536133
+"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",-0.006337974036001004,48.01500701904297

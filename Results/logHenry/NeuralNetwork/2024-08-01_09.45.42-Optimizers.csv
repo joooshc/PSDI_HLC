@@ -1,0 +1,50 @@
+,R2,MSE
+"AdamW (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0.01
+)",0.921505995805662,3.7843151092529297
+"NAdam (
+Parameter Group 0
+    betas: (0.9, 0.999)
+    capturable: False
+    decoupled_weight_decay: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.002
+    momentum_decay: 0.004
+    weight_decay: 0
+)",0.90628732543372,4.630373954772949
+"Adamax (
+Parameter Group 0
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.002
+    maximize: False
+    weight_decay: 0
+)",0.9047618250270689,3.176922082901001
+"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)",0.8827998615336191,5.474877834320068

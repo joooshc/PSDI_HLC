@@ -1,0 +1,24 @@
+HEADER    PROTEIN                                 21-AUG-24   NONE
+TITLE     NULL                                                        
+COMPND    NULL                                                        
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   21-AUG-24         0                                  
+HETATM    1  C   UNK     0       1.334   3.850   0.000  0.00  0.00           C+0
+HETATM    2  C   UNK     0       1.334  -0.770   0.000  0.00  0.00           C+0
+HETATM    3  C   UNK     0       0.000   0.000   0.000  0.00  0.00           C+0
+HETATM    4  C   UNK     0       2.667   0.000   0.000  0.00  0.00           C+0
+HETATM    5  C   UNK     0       0.000   1.540   0.000  0.00  0.00           C+0
+HETATM    6  C   UNK     0       2.667   1.540   0.000  0.00  0.00           C+0
+HETATM    7  C   UNK     0       1.334   2.310   0.000  0.00  0.00           C+0
+CONECT    1    7                                                            
+CONECT    2    3    4                                                       
+CONECT    3    2    5                                                       
+CONECT    4    2    6                                                       
+CONECT    5    3    7                                                       
+CONECT    6    4    7                                                       
+CONECT    7    1    5    6                                                  
+MASTER        0    0    0    0    0    0    0    0    7    0   14    0
+END
